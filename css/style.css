@@ -1,0 +1,13 @@
+body {
+	color: rgb(47, 47, 144);
+	font-size: 20px;
+}
+.boss_rab_color {
+	color: blue;
+}
+
+@media (max-width: 767px) {
+	.boss_rab_color {
+		color: blue;
+	}
+}
